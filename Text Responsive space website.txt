@@ -1,0 +1,26 @@
+========== HEADER ==========
+.nav__logo
+Space
+
+.nav__link
+Home - Features - Pricing - Contact
+
+.nav__button
+Login
+
+
+========== HOME ==========
+.home__subtitle
+NAVIGATE THE UNIVERSE
+
+.home__title
+Start Exploring <br>
+Infinite Space
+
+.home__description
+Start your exploration in space, navigate 
+and discover all the wonders of the 
+universe. 
+
+.home__button
+Get Started
